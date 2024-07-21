@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://your-repo-url.git'
+    repoURL: 'https://github.com/Madisoilihi/blog-app-config.git'
     targetRevision: HEAD
     path: 'k8s'
   destination:

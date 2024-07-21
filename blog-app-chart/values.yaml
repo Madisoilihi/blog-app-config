@@ -1,7 +1,7 @@
 replicaCount: 3
 
 image:
-  repository: blog-app
+  repository: jaayshaun/blog-app
   pullPolicy: IfNotPresent
   tag: latest
 
